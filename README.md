@@ -1,4 +1,4 @@
-![freeShop](https://raw.githubusercontent.com/AbyssAlley/freeShop/master/NewFreeShop_logo.png)
+![freeShop](https://raw.githubusercontent.com/AbyssAlley/NewFreeShop/master/NewFreeShopChangedLogoTransparent.png)
 
 [![Build Status](https://travis-ci.org/Cruel/freeShop.png?branch=master)](https://travis-ci.org/Cruel/freeShop) [![Codecov branch](https://img.shields.io/codecov/c/github/Cruel/freeShop/master.svg?maxAge=86400)](https://codecov.io/gh/Cruel/freeShop) [![Github latest downloads](https://img.shields.io/github/downloads/Cruel/freeShop/latest/total.svg?maxAge=86400)](https://github.com/Cruel/freeShop/releases/latest)
 
