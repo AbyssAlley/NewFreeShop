@@ -4,11 +4,11 @@ option(BUILD_EMULATOR "Build with cpp3ds emulator (Qt5 required)" OFF)
 option(BUILD_TESTS "Build unit tests" OFF)
 
 # Project name without spaces or special characters
-project("freeshop")
+project("newfreeshop")
 
-set(APP_TITLE "freeShop")
-set(APP_DESCRIPTION "Open source eShop clone")
-set(APP_AUTHOR "Cruel")
+set(APP_TITLE "New FreeShop")
+set(APP_DESCRIPTION "Brand New Remaster Of The Fairly Popular Open Source Eshop Clone")
+set(APP_AUTHOR "AbyssAlley")
 set(APP_ICON ${PROJECT_SOURCE_DIR}/res/app/icon.png)
 
 # First one is Title Version, second is the readable version
